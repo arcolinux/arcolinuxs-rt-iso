@@ -1,2 +1,2 @@
-# arcolinuxs-zen-iso
+# arcolinuxs-rt-iso
 
