@@ -938,3 +938,6 @@ linux-rt
 linux-rt-headers
 
 mkinitcpio-firmware
+
+## chaotics-aur
+#flat-remix
