@@ -244,7 +244,7 @@ echo
 	newname2='iso_label="arcolinuxs-rt'
 
 	oldname3='ArcoLinuxS-Rt'
-	newname3='ArcoLinuxS-Lts'
+	newname3='ArcoLinuxS-Rt'
 
 	#hostname
 	oldname4='ArcoLinuxS-Rt'
